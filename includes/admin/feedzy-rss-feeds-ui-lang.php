@@ -49,7 +49,7 @@ class Feedzy_Rss_Feeds_Ui_Lang {
 		$this->strings = array(
 			'popup_url'     => wp_nonce_url( 'admin-ajax.php', 'feedzy_ajax_token', 'feedzy_request_form_token' ),
 			'pro_url'       => tsdk_utmify( FEEDZY_UPSELL_LINK, 'shortcode' ),
-			'plugin_label'  => __( 'Feedzy Lite', 'feedzy-rss-feeds' ),
+			'plugin_label'  => __( 'Feedzy Pro', 'feedzy-rss-feeds' ),
 			'plugin_title'  => __( 'Insert Feedzy RSS Feeds Shortcode', 'feedzy-rss-feeds' ),
 			'image_button'  => __( 'Use Image', 'feedzy-rss-feeds' ),
 			'insert_button' => __( 'Insert Shortcode', 'feedzy-rss-feeds' ),

@@ -2,7 +2,7 @@
 # This file is distributed under the GPL-2.0+.
 msgid ""
 msgstr ""
-"Project-Id-Version: Feedzy RSS Feeds Lite 3.3.17\n"
+"Project-Id-Version: Feedzy RSS Feeds Pro 3.3.17\n"
 "Report-Msgid-Bugs-To: https://github.com/Codeinwp/feedzy-rss-feeds/issues\n"
 "POT-Creation-Date: 2020-02-06 10:28:48+00:00\n"
 "MIME-Version: 1.0\n"
@@ -162,7 +162,7 @@ msgid "Your settings were saved."
 msgstr ""
 
 #: includes/admin/feedzy-rss-feeds-ui-lang.php:52
-msgid "Feedzy Lite"
+msgid "Feedzy Pro"
 msgstr ""
 
 #: includes/admin/feedzy-rss-feeds-ui-lang.php:53
@@ -565,7 +565,7 @@ msgid "Save"
 msgstr ""
 
 #. Plugin Name of the plugin/theme
-msgid "Feedzy RSS Feeds Lite"
+msgid "Feedzy RSS Feeds Pro"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
