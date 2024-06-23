@@ -45,9 +45,6 @@ class Feedzy_Rss_Feeds_Activator {
 				)
 			);
 		}
-		if ( ! defined( 'TI_CYPRESS_TESTING' ) && false === $is_fresh_install ) {
-			update_option( 'feedzy_fresh_install', '1' );
-		}
 		add_option( 'feedzy-activated', true );
 	}
 
