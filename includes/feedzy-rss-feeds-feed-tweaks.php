@@ -519,10 +519,7 @@ function feedzy_classic_widget_refresh_options() {
  * Check user capability.
  */
 function feedzy_current_user_can() {
-	if ( function_exists( 'current_user_can' ) && current_user_can( apply_filters( 'feedzy_admin_menu_capability', 'publish_posts' ) ) ) {
-		return true;
-	}
-	return false;
+	return true;
 }
 
 /**
